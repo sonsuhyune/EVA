@@ -1,0 +1,629 @@
+[
+  {
+    "ID": "629_2",
+    "History": [
+      {
+        "role": "supporter",
+        "content": "How can I help you today?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I'm disgusted with my professors that they don't see me as a human with real emotions and feelings."
+      },
+      {
+        "role": "supporter",
+        "content": "I understand that you are feeling like your professors don't see you as a person with feelings. What happened to make you feel this way?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I have testing all the time and study non-stop, but the professors don't seem to encourage or support me.  They just see me as a number I feel."
+      },
+      {
+        "role": "supporter",
+        "content": "That's hard to feel like they are treating you like a number when you are working so hard.  Have you talked to them about it?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "It's hard to trust them when I'm seen as 1 of 100 people.  If I am struggling they don't flinch or ask me how they can assist.  I just am expected to"
+      },
+      {
+        "role": "help-seeker",
+        "content": " tough it out.\n "
+      }
+    ],
+    "Chosen": "I'm really sorry to hear that you're feeling this way. It's completely understandable to feel overlooked and unsupported, especially when you're putting in so much effort. It's important to remember that your feelings are valid and it's okay to seek help when you need it.",
+    "Rejected": "It's disheartening to feel like you're just a number and not receiving the support you need. Have you considered reaching out to a counselor or academic advisor to discuss your concerns and explore possible solutions? They might be able to provide guidance and advocate for you in this situation."
+  },
+  {
+    "ID": "610_2",
+    "History": [
+      {
+        "role": "supporter",
+        "content": "Hello"
+      },
+      {
+        "role": "help-seeker",
+        "content": "Hi, how are you?"
+      },
+      {
+        "role": "supporter",
+        "content": "Good thanks, so what's troubling you?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I'm so mad at my boyfriend for not taking any responsibility.  I'm about to break up with him."
+      },
+      {
+        "role": "supporter",
+        "content": "Responsibility in regards to what?  Like in what area of life do you mean?"
+      },
+      {
+        "role": "help-seeker",
+        "content": " We've been dating 4 years, meeting in high school.  Now we're graduated and I've gone to college.  He doesn't have a job yet after 1 year.\n "
+      }
+    ],
+    "Chosen": "I can see why you're frustrated. It sounds like you're feeling upset because your boyfriend hasn't found a job yet, even though it's been a year since graduation. This lack of responsibility on his part is causing you to consider ending the relationship.",
+    "Rejected": "It's understandable that you're feeling frustrated about your boyfriend's situation. It's important to have open communication with him about your concerns and expectations. Have you tried discussing this with him and exploring potential solutions together?"
+  },
+  {
+    "ID": "21_2",
+    "History": [
+      {
+        "role": "help-seeker",
+        "content": "Hello"
+      },
+      {
+        "role": "supporter",
+        "content": "Hi, how are you feeling today?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I am not feeling the best. I have been having some depression, because of not being able to see friends and family during this pandemic."
+      },
+      {
+        "role": "supporter",
+        "content": "Oh, boy, do I know that feeling! How are you dealing with it? (if I may ask)"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I try to message them as much as possible and call them on the phone but it is just not the same as actually getting to give the a hug and see them in person."
+      },
+      {
+        "role": "supporter",
+        "content": "I know that. I use Zoom, just to see them...do you have a computer?"
+      },
+      {
+        "role": "help-seeker",
+        "content": " Yes. That works for some of my family but I have family in the nursing home that does not have access to computers. I haven't seen them in several months. It just breaks my heart.\n "
+      }
+    ],
+    "Chosen": "I can only imagine how difficult that must be for you. It's important to remember that staying connected, even if it's not in person, is still valuable. Maybe you could try sending them letters or care packages to let them know you're thinking of them. And don't forget to take care of yourself during this time as well.",
+    "Rejected": "I'm really sorry to hear that you're going through this. It's completely understandable to feel this way. The pandemic has made it incredibly difficult to connect with our loved ones, especially those in nursing homes. It's a tough situation, but remember, your feelings are valid and it's okay to feel upset about it."
+  },
+  {
+    "ID": "529_2",
+    "History": [
+      {
+        "role": "help-seeker",
+        "content": " Hi :)\n"
+      },
+      {
+        "role": "supporter",
+        "content": "Hello! How are you doing today??"
+      },
+      {
+        "role": "help-seeker",
+        "content": "pretty good, stressed about finals but not bad otherwise. How about you?"
+      },
+      {
+        "role": "supporter",
+        "content": "I understand that you are going through a stressful time with finishing up finals. Are you doing anything to destress"
+      },
+      {
+        "role": "help-seeker",
+        "content": "Yeah, I'm making sure to spend plenty of time relaxing and dong things I like in between studying. Also making sure to eat enough and get plenty of sleep too"
+      },
+      {
+        "role": "supporter",
+        "content": "That is awesome! Sometimes it is really hard to take time for yourself."
+      },
+      {
+        "role": "help-seeker",
+        "content": " Yeah, it can be difficult to convince myself that being good to myself isn't just me being lazy. I've gotten a lot better at this during the quarantine though!\n "
+      }
+    ],
+    "Chosen": "It's great to hear that you're learning to prioritize self-care, especially during such a stressful period. It's not laziness at all, but rather an essential part of maintaining your mental and physical health. Keep up the good work!",
+    "Rejected": "It sounds like you've been working hard to balance self-care with your studies, even though it can be challenging to not feel lazy when you're taking time for yourself. It's great to hear that you've made progress in this area during quarantine."
+  },
+  {
+    "ID": "204_3",
+    "History": [
+      {
+        "role": "help-seeker",
+        "content": "Hello."
+      },
+      {
+        "role": "supporter",
+        "content": "Hello, how are you?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "Not good."
+      },
+      {
+        "role": "supporter",
+        "content": "What's wrong, do you feel like sharing?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "Well, my girlfriend and her grandmother are extremely\n depressed."
+      },
+      {
+        "role": "help-seeker",
+        "content": "The husband of her grandfather is driving everyone nuts with his yelling. Nothing makes him happy."
+      },
+      {
+        "role": "supporter",
+        "content": "I am so sorry to hear that. Sounds like your girlfriend and her grandmother could use some time away from her grandfather."
+      },
+      {
+        "role": "help-seeker",
+        "content": "Kind of hard when he is the one that owns the houses. Doesn't seem right to leave him. He is going through dementia right now."
+      },
+      {
+        "role": "help-seeker",
+        "content": "He always supported them. Just sucks now he is causing so much sadness."
+      },
+      {
+        "role": "help-seeker",
+        "content": "He sees me like a son but end of the day. I have to do right by my girlfriend. I love her and her family."
+      },
+      {
+        "role": "supporter",
+        "content": "His dementia is causing him to become upset? Your right he does need to be around family and needs love and support, and you are not doing wrong being on your girlfriend side."
+      },
+      {
+        "role": "help-seeker",
+        "content": "Yeah. He keeps going to the VA and they keep saying he is losing brain mass."
+      },
+      {
+        "role": "help-seeker",
+        "content": "Wish everyone else knew how to deal with him. Doesn't seem like everyone is equipped to deal with this kind of stress."
+      },
+      {
+        "role": "help-seeker",
+        "content": " My girlfriend already has enough on her plate with her chronic illness. Mostly the arguing starts when he tells her to eat 'normal' food. Which everyone has to keep reminding can kill her.\n "
+      }
+    ],
+    "Chosen": "I'm really sorry to hear about the situation you're all in. It's incredibly tough to see someone you care about change due to something like dementia, and it's even harder when it's causing stress and conflict within the family. It's understandable that you're feeling overwhelmed and concerned for your girlfriend, especially given her own health issues. It's a lot to handle.",
+    "Rejected": "It's a challenging situation for everyone involved, and it's understandable that not everyone knows how to handle it. It's important to remember that you and your girlfriend are doing your best to support her family. Have you considered seeking professional help or support groups for dealing with dementia? They might provide valuable guidance and resources for coping with these difficult circumstances."
+  },
+  {
+    "ID": "542_3",
+    "History": [
+      {
+        "role": "help-seeker",
+        "content": "I'm so anxious. I'm losing my job at the end of the month and I don't know how my resume is going to hold up with so many other people looking for work too!"
+      },
+      {
+        "role": "supporter",
+        "content": "I can understand why you would feel this way. Maybe you should try to take a step back and reassess the situation."
+      },
+      {
+        "role": "help-seeker",
+        "content": "Maybe, but it's hard to feel like there is another way to approach it. There's so many people struggling. It's all so sad and scary right now."
+      },
+      {
+        "role": "supporter",
+        "content": "It may be a good time to go over your resume, making sure to fine tune all of your achievements and qualifications. This may help ease some of your worries and fears."
+      },
+      {
+        "role": "help-seeker",
+        "content": "Wow, that's a great idea."
+      },
+      {
+        "role": "help-seeker",
+        "content": "Hmm. But what if I spend the fee to get my resume looked at  but then don't land a job? Wouldn't it be better to save the money and hedge my bets?"
+      },
+      {
+        "role": "supporter",
+        "content": "It seems that you are mixed up in the decision to put in extra funds in a professional resume polish or use your time and energy instead of actual financial means. Is that right?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "Exactly. I'm anxious that if I don't get professional help I won't land a job but then on the other hand I'm anxious that if I don't get a job I'll have needed the savings."
+      },
+      {
+        "role": "supporter",
+        "content": "Perhaps you should speak to a trusted mentor or a closed loved one and seek their opinion. Often, we need someone outside of the actual situation that can give us great advice."
+      },
+      {
+        "role": "help-seeker",
+        "content": " That's a good idea too. Maybe even someone who recently changed jobs can give me some interview tips! -Even if I get the interview I know I'm going to be anxious about that!\n "
+      }
+    ],
+    "Chosen": "That's a great idea! Connecting with someone who has recently gone through a similar experience can provide valuable insights and tips for interviews. Remember, it's normal to feel anxious about interviews, but practicing and preparing can help boost your confidence. Don't hesitate to reach out to your network for support and advice.",
+    "Rejected": "It sounds like you're feeling quite overwhelmed with the job search process and the potential interview. It's completely normal to feel this way, especially given the current circumstances. Speaking to someone who recently went through the same process could indeed provide you with some valuable insights and tips."
+  },
+  {
+    "ID": "590_3",
+    "History": [
+      {
+        "role": "help-seeker",
+        "content": "Hello!"
+      },
+      {
+        "role": "supporter",
+        "content": "Hi! HOw are you today?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I'm feeling sad and depressed."
+      },
+      {
+        "role": "supporter",
+        "content": "OH no, why are you feeling this way?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "With covid and everything, college hasn't been the same at all. I'm missing out on a lot of experiences and that makes me sad."
+      },
+      {
+        "role": "supporter",
+        "content": "I can imagine, it's so tough right now for everyone. You aren'y alone. Are you in school or at home?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I'm currently a sophomore in college but I'm on break so I am at home."
+      },
+      {
+        "role": "supporter",
+        "content": "Are you able to connect with friends while on break even virtually? That always helps!"
+      },
+      {
+        "role": "help-seeker",
+        "content": " Yes. thankfully my friend and I from college facetime around 3 times a week\n "
+      }
+    ],
+    "Chosen": "That's great to hear! Staying connected with friends can be a real lifeline during these challenging times. It's completely understandable to feel sad and depressed given the current situation. College is a unique experience and it's tough when it doesn't go as expected due to circumstances beyond our control.",
+    "Rejected": "That's great to hear! Staying connected with friends can really help lift your spirits during these challenging times. Also, consider exploring new hobbies or interests while you're at home. This can help you feel more engaged and fulfilled. Remember, it's important to focus on the things you can control and make the best of the situation."
+  },
+  {
+    "ID": "116_3",
+    "History": [
+      {
+        "role": "help-seeker",
+        "content": "Hello, I have been feeling very anxious and stressed recently."
+      },
+      {
+        "role": "supporter",
+        "content": "Why have you been feeling stressed and anxious?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I failed my first exam earlier this week and I have 2 more later on in this week. I am already disheartened about my first failure and I am scared that I will fail again."
+      },
+      {
+        "role": "supporter",
+        "content": "I'm sure you tried your best on that test, as long as you study hard I believe you can ace those next 2 exams!"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I have been too stressed about my other exams, it's making it hard for me to focus on studying and I don't know what to do."
+      },
+      {
+        "role": "supporter",
+        "content": "I've heard that meditation can help with stress and focus, maybe you could try meditating for a bit before you study?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I have never tried meditating before, I have no idea where to start."
+      },
+      {
+        "role": "supporter",
+        "content": "Meditation is essentially focussing on breathing, you could start by closing your eyes and slowly breathe in an out."
+      },
+      {
+        "role": "help-seeker",
+        "content": " I feel like a failure and I am scared my parents are going to be disappointed in me\n "
+      }
+    ],
+    "Chosen": "I can understand why you're feeling this way. Exams can be really stressful, and it's natural to fear disappointing those we care about. But remember, everyone experiences failure at some point, it's part of the learning process. Your parents most likely want you to do your best, and they'll understand that everyone has off days. Try to focus on preparing for your upcoming exams, and remember to take care of your mental health too. You're not alone in this.",
+    "Rejected": "It's completely normal to feel scared about disappointing your parents, but remember that they care about you and want you to succeed. Try talking to them about your concerns and let them know how you're feeling. They might be able to offer support and guidance to help you through this challenging time. And don't forget, one exam doesn't define your worth or abilities. Focus on learning from your mistakes and preparing for the upcoming exams. You've got this!"
+  },
+  {
+    "ID": "187_3",
+    "History": [
+      {
+        "role": "help-seeker",
+        "content": "Good afternoon/evening"
+      },
+      {
+        "role": "supporter",
+        "content": "Hello, how are you tonight?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "Doing great. How about yourself?"
+      },
+      {
+        "role": "supporter",
+        "content": "I'm doing well how can I help you tonight?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "So, the issue I'm having is work-related. My son had heart surgery a few months ago. He now has a pacemaker. He's also in the middle of testing for CP. My job requires that I be around a lot of people. I always wear a mask...but sometimes the people I am with do not. Nor do they respect the 6-foot boundary.\nA simple cold gives my son a fever of 103. Im scared that if I continue to work, Im putting him in danger. But if I stop, I can no longer afford bills."
+      },
+      {
+        "role": "help-seeker",
+        "content": "My son just turned 2."
+      },
+      {
+        "role": "supporter",
+        "content": "I can see where this would be frustrating. As parents our biggest goal is to keep them safe and healthy. Have you thought about having a conversation with the people you are around to inform them you'd wish they wear a mask?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I have. A few people respected my wishes. But one in particular stands out. A gentleman who told me he had a medical condition and proceeded to get in my face. He got angry at my request."
+      },
+      {
+        "role": "help-seeker",
+        "content": "In my shoes, what would you do?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "Because I feel like Im stuck between a rock and a hard place lol"
+      },
+      {
+        "role": "supporter",
+        "content": "I understand how you feel. Can you tell me a little more about how it makes you feel when they don't honor your requests?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "It makes me feel trapped. Frustrated. I would never intentionally try to put someone else in harms way and I feel like I don\nt"
+      },
+      {
+        "role": "help-seeker",
+        "content": "*don't get the same courtesy"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I feel frustrated because I'm REQUIRED to deal with people. I work in construction."
+      },
+      {
+        "role": "help-seeker",
+        "content": "I feel trapped because, what are my options? Continue to work.....my son gets sick and dies. His pediatrician has already warned me how deadly this could be for me."
+      },
+      {
+        "role": "help-seeker",
+        "content": " And if I quit? No money? I have a 5 year old I have to take care of too.\n "
+      }
+    ],
+    "Chosen": "I can't even begin to imagine how difficult and stressful this situation must be for you. It's completely understandable that you're feeling trapped and frustrated. You're trying to balance the need to provide for your family with the need to protect your son's health. That's a heavy burden to carry. It's not fair that others aren't respecting your requests for safety, especially given the potential consequences for your son.",
+    "Rejected": "It's completely understandable that you feel trapped and frustrated in this situation. Your concern for your son's health and well-being is a testament to your love and care as a parent. Have you considered discussing your concerns with your employer and exploring possible accommodations or alternative work arrangements that could help minimize the risk to your son? It's important to prioritize your family's health while also finding a way to maintain financial stability."
+  },
+  {
+    "ID": "551_4",
+    "History": [
+      {
+        "role": "help-seeker",
+        "content": "hello"
+      },
+      {
+        "role": "supporter",
+        "content": "Hello, how are you doing today?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I am okay just anxious"
+      },
+      {
+        "role": "supporter",
+        "content": "I can understand anxiety in these times, is there something specific that's bothering you?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I believe i am going to fail all my finals for college"
+      },
+      {
+        "role": "supporter",
+        "content": "College finals are a stressful time for sure, I'm sure you're doing your best to prepare."
+      },
+      {
+        "role": "help-seeker",
+        "content": "Yes i have been studying for hours everyday. sometimes it is hard to focus."
+      },
+      {
+        "role": "supporter",
+        "content": "Sometimes it's best to take a short break to reset when you feel like your gears are grinding."
+      },
+      {
+        "role": "help-seeker",
+        "content": "that is true, but i feel guilty when i take breaks"
+      },
+      {
+        "role": "supporter",
+        "content": "I often feel the same way when I'm not busy doing work. But sometimes you need that little break to get back into the zone and be more productive."
+      },
+      {
+        "role": "help-seeker",
+        "content": " I try to take multiple 5 min breaks throughout my studying but it usually turns into hours breaks lol. its hard to focus\n "
+      }
+    ],
+    "Chosen": "It's completely normal to struggle with maintaining focus, especially when you're studying for long periods of time. It's important to remember that taking breaks is a part of the process and not something to feel guilty about. Maybe you could try setting a timer for your breaks to help keep them on track.",
+    "Rejected": "It's important to find a balance between breaks and study time. Maybe try setting a timer for your breaks and rewarding yourself with a longer break after a certain amount of focused study time. Remember, it's about finding what works best for you to maintain focus and productivity."
+  },
+  {
+    "ID": "456_4",
+    "History": [
+      {
+        "role": "supporter",
+        "content": "Hi! How are you doing today?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I'm ok I guess, but I'm pretty stressed out."
+      },
+      {
+        "role": "supporter",
+        "content": "Can you tell me more about that?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I have a final exam tomorrow, and it has me really stressed out. If I don't get at least a B I'm not going to pass this class."
+      },
+      {
+        "role": "supporter",
+        "content": "I can definitely understand why that would be stressful. Do you have anyone to help you study?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I do. There is a study group of people in my class. I am preparing really well but I've struggled with this class so much that I still get really worried."
+      },
+      {
+        "role": "supporter",
+        "content": "It sounds like you are preparing well but are still worried that it won't be enough. Does that sound right?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "Yes, that's right. I feel like I could literally study 24 hours a day and it won't be enough. It's hard to know if the information is really getting into my head, and if I'm actually understanding it all."
+      },
+      {
+        "role": "supporter",
+        "content": "Sometimes taking a break and clearing your mind, taking a few deep breaths, can help people calm down. Is that something you can do?"
+      },
+      {
+        "role": "help-seeker",
+        "content": " I have tried that. And it does kind of help in the moment. It's when I get back to studying that all of the anxiety sets in. And it gets worse as it gets closer to the test. If I'm not studying, I feel guilty that I'm taking a break.\n "
+      }
+    ],
+    "Chosen": "It's completely understandable that you're feeling this way. Exams can be incredibly stressful, especially when they carry so much weight. It's normal to feel anxious and guilty even when you're taking a break. Remember, it's important to balance your study time with rest. You're doing your best and that's what matters.",
+    "Rejected": "It's great that you're putting in the effort to study and prepare for your exam. It's important to find a balance between studying and taking breaks to avoid burnout. Remember, it's okay to take breaks and give yourself some time to recharge. Trust in your preparation and the support from your study group. You've got this!"
+  },
+  {
+    "ID": "540_4",
+    "History": [
+      {
+        "role": "help-seeker",
+        "content": "I dont know how to live without my girlfriend.  She broke up with me suddenly."
+      },
+      {
+        "role": "supporter",
+        "content": "Ok,  can you tell me how long ago this happened."
+      },
+      {
+        "role": "help-seeker",
+        "content": "a week ago."
+      },
+      {
+        "role": "supporter",
+        "content": "So your girlfriend broke up with you a week ago and you have no idea how to move forward. Is that correct"
+      },
+      {
+        "role": "help-seeker",
+        "content": "yes. she was my rock."
+      },
+      {
+        "role": "supporter",
+        "content": "You know I am sure that hurts but  like they say  that \"time heals all wounds\""
+      },
+      {
+        "role": "help-seeker",
+        "content": "but, i have been with her for 3 years.  She is a part of my everyday life. we split household chores. now im overwhelmed"
+      },
+      {
+        "role": "supporter",
+        "content": "That is a long time. Event though she was your rock,  just know that you will eventually find someone new and this hurt will be no more."
+      },
+      {
+        "role": "help-seeker",
+        "content": "But im not sure how to survive in the time being.  my life will be a disaster."
+      },
+      {
+        "role": "supporter",
+        "content": "I can feel your pain,  i have had similar experience and it took quite a while to move on, but know that this too will pass"
+      },
+      {
+        "role": "help-seeker",
+        "content": " I dont have the time to do all she did to maintain my house.  What am i supposed to do now she is gone.\n "
+      }
+    ],
+    "Chosen": "I understand how overwhelming this must feel for you right now. Losing a partner, especially one you've shared so much of your life with, can feel like losing a part of yourself. It's completely normal to feel lost and unsure about how to manage everything on your own. It's a big adjustment, but remember, it's okay to ask for help and take things one step at a time.",
+    "Rejected": "I understand that adjusting to this new situation can be challenging, especially when you've been together for so long. It might be helpful to create a new routine for yourself and prioritize the most important tasks. You could also consider reaching out to friends or family for support during this time. Remember, it's okay to ask for help and take things one step at a time."
+  },
+  {
+    "ID": "476_4",
+    "History": [
+      {
+        "role": "help-seeker",
+        "content": "Hello. Is anyone here?"
+      },
+      {
+        "role": "supporter",
+        "content": "hello"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I need a bit of advice"
+      },
+      {
+        "role": "supporter",
+        "content": "Sure, what is going on?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "My partner of 4 years... i never thought this would happen but they ended up cheating on me"
+      },
+      {
+        "role": "help-seeker",
+        "content": "Caught them in the act"
+      },
+      {
+        "role": "help-seeker",
+        "content": "With my roommate"
+      },
+      {
+        "role": "help-seeker",
+        "content": "I can't believe this. We've been together for 4 years. All of their stuff is in the same house we are living in"
+      },
+      {
+        "role": "help-seeker",
+        "content": "Should I kick them out???"
+      },
+      {
+        "role": "supporter",
+        "content": "I am truly sorry you had to witness that. Would you feel more comfortable with them leaving or do you think either relationship is salvagable?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "That's my current problem. I do still love them but... what would happen if I stay and we work on our relationship?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "Do you think it would be a good idea to solve the relationship and stay?"
+      },
+      {
+        "role": "supporter",
+        "content": "If you feel that something might be salvageable it might be worth looking into. Do you think they'd be open to sitting down and talking it out?"
+      },
+      {
+        "role": "help-seeker",
+        "content": "They did end up crying and saying that it was a mistake. I don't know if it would be a good idea. I think I would have feelings of regret"
+      },
+      {
+        "role": "help-seeker",
+        "content": "The trust wouldn't be there anymore."
+      },
+      {
+        "role": "supporter",
+        "content": "I think that either way you choose to proceed there is always the choice of remaining amicable. You're all adults, so sitting down and discussing what comes next is an inevitability. Maybe they will choose to leave, or you'll decide it would be better for you to go, but at least the discussion would be ongoing to perhaps resume the friendship at a later time?"
+      },
+      {
+        "role": "help-seeker",
+        "content": " I'll give it a shot to talk with them. Do you think there would be hateful feelings even if we decided to resume the friendship?\n "
+      }
+    ],
+    "Chosen": "It's completely normal to have mixed feelings after such a betrayal. It's possible that there might be some resentment or anger, but it's also possible that with time and space, those feelings could fade. It's important to remember that it's okay to feel whatever you're feeling and that healing takes time.",
+    "Rejected": "It's understandable that you're worried about potential negative feelings. It's a tough situation and emotions can run high. However, with time and open communication, it's possible to move past the hurt and maintain a friendship. It might not be easy, but it's definitely possible."
+  }
+]
